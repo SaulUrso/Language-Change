@@ -1,4 +1,4 @@
-# CMCS
+# Language Change
 
 This project is a Mesa implementation of the NetLogo Language Change model:
 [NetLogo Language Change model](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Language%20Change.nlogo)
